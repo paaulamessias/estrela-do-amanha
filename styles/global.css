@@ -5,8 +5,8 @@ body {
 }
 
 :root {
-
   --font-family: "Poppins" , sans-serif;
+  
   --text: 400 1rem/1.5 var(--font-family);
   --text-sm: 400 0.875rem/1.4 var(--font-family);
 
@@ -20,7 +20,6 @@ body {
 
   --stroke-default: #d6d3d1;
   --stroke-highlight: #f3541c;
+  
   --semantic-error: #dc2626;
-
-
 }
