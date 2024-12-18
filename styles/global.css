@@ -1,4 +1,4 @@
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -22,4 +22,8 @@ body {
   --stroke-highlight: #f3541c;
   
   --semantic-error: #dc2626;
+}
+
+body {
+  overflow: hidden;
 }
